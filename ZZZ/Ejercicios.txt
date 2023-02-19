@@ -1,0 +1,9 @@
+1- Adapter
+2- Mensajeria
+3- Pizza
+4- Filósofos
+5- Aviones
+6- Carrera
+7- Bolsa
+8- Cajera
+9- Casino
